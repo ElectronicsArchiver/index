@@ -1,7 +1,16 @@
+
+<div align = center>
+
 # LumenPnP
-The LumenPnP is an open source [Pick & Place Machine] to aid in [Mid-Scale Manufacturing]. 
+
+*Open source* ***[Pick & Place Machine]*** <br>
+*aiding **[Mid-Scale Manufacturing]** .*
 
 ![Showcase]
+  
+</div>
+
+<br>
 
 LumenPnP kits are available for sale on the [Opulo Website][Website]. Machines are being used in active production daily. If you build or buy one, please help the project by documenting bugs with a GitHub issue.
 
