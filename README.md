@@ -5,6 +5,18 @@
 
 *Open source* ***[Pick & Place Machine]*** <br>
 *aiding **[Mid-Scale Manufacturing]** .*
+  
+<br>
+
+[![Badge Discord]][Discord]   
+[![Badge Wiki]][Wiki]
+  
+[![Badge Buy]][Buy]   
+[![Badge Documentation]][Documentation]
+
+[![Badge Contribute]][Contribute]
+  
+<br>
 
 ![Showcase]
   
@@ -22,16 +34,7 @@ Along with the pick and place machine itself, the project also includes feeders 
 
 The LumenPnP's development process is being cataloged in a series of videos. A playlist of these can be found [here][Playlist].
 
-## How do I build one?
-You can buy a kit on the [Opulo Website][Buy] and follow the build instructions on the [docs page][Documentation]
-
-## Contributing
-If you would like to contribute to the project, awesome! Check out the [contributing page][Contribute] to get started.
-
-## Community
-Discussion about the project happens on the [STR Discord server][Discord]!
-
-
+<br>
 
 
 <!----------------------------------------------------------------------------->
@@ -49,14 +52,13 @@ Discussion about the project happens on the [STR Discord server][Discord]!
 [Buy]: https://www.opulo.io/products/lumenpnp-kit
 
 
+<!----------------------------------------------------------------------------->
 
-
-
-
-
-
-
-
+[Badge Documentation]: https://img.shields.io/badge/Documentation-26689A?style=for-the-badge&logoColor=white&logo=GitBook
+[Badge Contribute]: https://img.shields.io/badge/Contribute-68A51C?style=for-the-badge&logoColor=white&logo=AddThis
+[Badge Discord]: https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logoColor=white&logo=Discord
+[Badge Wiki]: https://img.shields.io/badge/Wiki-EE8208?style=for-the-badge&logoColor=white&logo=GitLFS
+[Badge Buy]: https://img.shields.io/badge/Buy_Kit-FC494A?style=for-the-badge&logoColor=white&logo=HomeAssistantCommunityStore
 
 
 
